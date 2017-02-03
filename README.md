@@ -1,3 +1,5 @@
+
+# xtria
 # mafia_bot
 ```
 $ git clone https://github.com/mafia-007/mafia_cli
@@ -47,5 +49,5 @@ $ screen ./launch
  →→→→→→→→→→→→ 
   mafia_cli
  ```
-
+# [@xtria](https://telegram.me/xtria)
 # [@mafia_cli](https://telegram.me/mafia_cli)
